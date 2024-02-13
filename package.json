@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/7-project/",
+    "build": "vite build --base=/103_html-css_grifano/",
     "preview": "vite preview"
   },
   "devDependencies": {
